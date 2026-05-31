@@ -19,3 +19,4 @@ How to Run
 1. Open the project in IntelliJ IDEA
 2. Run DemoApplication
 3. Open http://localhost:8080
+4. also open http://localhost:8080/index.html
